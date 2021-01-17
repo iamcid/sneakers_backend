@@ -1,4 +1,4 @@
 class Collection < ApplicationRecord
   belongs_to :user
-  belongs_to :sneakers
+  belongs_to :sneaker
 end
